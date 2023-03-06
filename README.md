@@ -21,10 +21,9 @@ Server:   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=A
 ## Schema
 <img src="https://user-images.githubusercontent.com/101177511/223021647-bd3115b7-2952-462d-8536-267c8df99438.png" width="40%"/>
 
-## 대시보드
+## 대시보드    ☞ <a href="https://youtu.be/APzw61qf70s">시연링크</a>
 <img src="https://user-images.githubusercontent.com/101177511/223024157-6b1e4b48-db1f-45ba-8c7e-e04247eead8b.png" width="50%"/>   
 <img src="https://user-images.githubusercontent.com/101177511/223024061-2bddc759-8a57-4940-afbc-29a1b2b25f7d.png" width="50%"/>   
 <img src="https://user-images.githubusercontent.com/101177511/223024075-8bc090f5-2c83-4724-a34e-208d5ad5054e.png" width="50%"/>   
 <img src="https://user-images.githubusercontent.com/101177511/223024082-9580966a-3621-49c6-b4cf-129c5930ff49.png" width="50%"/>   
 <img src="https://user-images.githubusercontent.com/101177511/223024086-32106999-14b4-4885-8aa6-191f51898070.png" width="50%"/>
-
