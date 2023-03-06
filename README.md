@@ -3,7 +3,7 @@
 
 ## 목적
 데이터베이스 팀 프로젝트
-> 코로나-19를 관제하기 위한 대시보드 및 DB서버 구축   
+> 코로나-19를 관제하기 위한 대시보드 및 DB 구축   
 
 ## 언어
 Front:   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white">
